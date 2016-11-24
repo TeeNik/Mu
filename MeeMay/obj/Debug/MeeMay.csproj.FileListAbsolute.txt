@@ -1,0 +1,63 @@
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\bin\Debug\MeeMay.exe.config
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\bin\Debug\MeeMay.exe
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\bin\Debug\MeeMay.pdb
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\obj\Debug\MeeMay.Form1.resources
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\obj\Debug\MeeMay.exe
+c:\users\yan\documents\visual studio 2015\Projects\MeeMay\MeeMay\obj\Debug\MeeMay.pdb
+D:\MeeMay\MeeMay\bin\Debug\MeeMay.exe.config
+D:\MeeMay\MeeMay\obj\Debug\MeeMay.exe
+D:\MeeMay\MeeMay\obj\Debug\MeeMay.pdb
+D:\MeeMay\MeeMay\bin\Debug\MeeMay.exe
+D:\MeeMay\MeeMay\bin\Debug\MeeMay.pdb
+D:\MeeMay\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+D:\MeeMay\MeeMay\obj\Debug\MeeMay.Form1.resources
+D:\MeeMay\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+D:\MeeMay\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
+C:\Users\Yan\Desktop\MeeMay\MeeMay\bin\Debug\MeeMay.exe.config
+C:\Users\Yan\Desktop\MeeMay\MeeMay\obj\Debug\MeeMay.exe
+C:\Users\Yan\Desktop\MeeMay\MeeMay\obj\Debug\MeeMay.pdb
+C:\Users\Yan\Desktop\MeeMay\MeeMay\bin\Debug\MeeMay.exe
+C:\Users\Yan\Desktop\MeeMay\MeeMay\bin\Debug\MeeMay.pdb
+C:\Users\Yan\Desktop\MeeMay\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+C:\Users\Yan\Desktop\MeeMay\MeeMay\obj\Debug\MeeMay.Form1.resources
+C:\Users\Yan\Desktop\MeeMay\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+C:\Users\Yan\Desktop\MeeMay\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
+G:\MeeMay\MeeMay\bin\Debug\MeeMay.exe.config
+G:\MeeMay\MeeMay\obj\Debug\MeeMay.exe
+G:\MeeMay\MeeMay\obj\Debug\MeeMay.pdb
+G:\MeeMay\MeeMay\bin\Debug\MeeMay.exe
+G:\MeeMay\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+G:\MeeMay\MeeMay\obj\Debug\MeeMay.Form1.resources
+G:\MeeMay\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+G:\MeeMay\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
+G:\MeeMay\MeeMay\bin\Debug\MeeMay.pdb
+H:\MeeMay\MeeMay\bin\Debug\MeeMay.exe.config
+H:\MeeMay\MeeMay\obj\Debug\MeeMay.exe
+H:\MeeMay\MeeMay\obj\Debug\MeeMay.pdb
+H:\MeeMay\MeeMay\bin\Debug\MeeMay.exe
+H:\MeeMay\MeeMay\bin\Debug\MeeMay.pdb
+H:\MeeMay\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+H:\MeeMay\MeeMay\obj\Debug\MeeMay.Form1.resources
+H:\MeeMay\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+H:\MeeMay\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
+C:\Users\Yan\Desktop\mu\MeeMay\bin\Debug\MeeMay.exe.config
+C:\Users\Yan\Desktop\mu\MeeMay\obj\Debug\MeeMay.exe
+C:\Users\Yan\Desktop\mu\MeeMay\obj\Debug\MeeMay.pdb
+C:\Users\Yan\Desktop\mu\MeeMay\bin\Debug\MeeMay.exe
+C:\Users\Yan\Desktop\mu\MeeMay\bin\Debug\MeeMay.pdb
+C:\Users\Yan\Desktop\mu\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+C:\Users\Yan\Desktop\mu\MeeMay\obj\Debug\MeeMay.Form1.resources
+C:\Users\Yan\Desktop\mu\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+C:\Users\Yan\Desktop\mu\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
+C:\Users\Макс\Downloads\mu\MeeMay\bin\Debug\MeeMay.exe.config
+C:\Users\Макс\Downloads\mu\MeeMay\obj\Debug\MeeMay.exe
+C:\Users\Макс\Downloads\mu\MeeMay\obj\Debug\MeeMay.pdb
+C:\Users\Макс\Downloads\mu\MeeMay\bin\Debug\MeeMay.exe
+C:\Users\Макс\Downloads\mu\MeeMay\bin\Debug\MeeMay.pdb
+C:\Users\Макс\Downloads\mu\MeeMay\obj\Debug\MeeMay.csprojResolveAssemblyReference.cache
+C:\Users\Макс\Downloads\mu\MeeMay\obj\Debug\MeeMay.Form1.resources
+C:\Users\Макс\Downloads\mu\MeeMay\obj\Debug\MeeMay.Properties.Resources.resources
+C:\Users\Макс\Downloads\mu\MeeMay\obj\Debug\MeeMay.csproj.GenerateResource.Cache
